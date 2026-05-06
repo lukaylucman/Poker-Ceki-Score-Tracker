@@ -1,0 +1,6 @@
+{
+  "name": "Poker Ceki Score Tracker",
+  "description": "Website interaktif untuk menghitung skor permainan Poker Ceki dengan 4 pemain secara real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
